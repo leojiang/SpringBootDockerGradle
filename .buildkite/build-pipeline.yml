@@ -1,0 +1,4 @@
+steps:
+  - label: "Building"
+    command: .buildkite/scripts/build.sh
+
