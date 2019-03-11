@@ -1,5 +1,3 @@
 #!/bin/bash
 
-echo "start building"
-
-ls
+./gradlew clean dockerBuilder -Ppush
