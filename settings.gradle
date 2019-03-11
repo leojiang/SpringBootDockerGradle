@@ -1,0 +1,10 @@
+pluginManagement {
+	repositories {
+//		google()
+//		jcenter()
+//		mavenCentral()
+		gradlePluginPortal()
+	}
+}
+
+rootProject.name = 'springbootdockergradle'
